@@ -13,9 +13,11 @@ System.out.print("+");
 }
 l+=2;
  
+ 
 System.out.println("");
 }
 l -= 4;
+ 
  
 for(int i=(n-1);i>=1;i--){
 for(int k=i;k<=(n-1);k++){
@@ -27,6 +29,5 @@ System.out.print("+");
 l-=2;
  
 System.out.println("");
-}
- 
+  } 
 }
